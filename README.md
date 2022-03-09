@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about epanything
 - 📫 How to reach me: My discussions (this repo)
 - 😄 Pronouns: he/him
-- :fr: Fun fact: I come from France
+- 🌍 Hello World!
