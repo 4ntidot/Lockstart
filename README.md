@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @TheScratchGamers
+- 🔭 I’m currently working on something secret
 - 🌱 I’m currently learning Vue, Sass
-- 👯 I’m looking to collaborate on @TheScratchGamers
-- 🤔 I’m looking for help with Floss Web
-- 💬 Ask me about epanything
+- 👯 I’m looking to collaborate on DeltaFrame (dsa.pages.dev)
+- 🤔 I’m looking for help with Mosaika
+- 💬 Ask me about anything
 - 📫 How to reach me: My discussions (this repo)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - 🌍 Hello World!
