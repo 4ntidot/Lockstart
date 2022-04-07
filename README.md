@@ -1,14 +1,25 @@
-### Hi there 👋
+![E3A86980-6BD2-414F-B6C6-3CE87DC58299](https://user-images.githubusercontent.com/98713994/162332903-a60c27e6-4250-47d4-8535-281619912916.jpeg)
 
-**happexx/happexx** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
+Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I am learning from myself day to day.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on something secret
-- 🌱 I’m currently learning Vue, Sass
-- 👯 I’m looking to collaborate on DeltaFrame (dsa.pages.dev)
-- 🤔 I’m looking for help with Mosaika
-- 💬 Ask me about anything
-- 📫 How to reach me: My discussions (this repo)
-- 😄 Pronouns: he/him/his
-- 🌍 Hello World!
+## Coding languages 🧑‍💻
+
+* HTML
+* CSS
+* JS
+And extremely relely
+* Python
+
+
+## Projects 🪁
+
+* [Scratch Tutorials](https://github.com/nao-l/scratchtutorials)
+* [Wolfyctionnary](https://github.com/nao-l/wolfyctionnary-api)
+
+
+## Coding Surfaces 💻
+
+* [Documents](https://readdle.com/documents)
+* [Repl.it](https://replit.com)
+* [Github](https://github.com)
