@@ -8,7 +8,7 @@ Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I 
 * HTML
 * CSS
 * JS
-And extremely relely
+And extremely rarely
 * Python
 
 
