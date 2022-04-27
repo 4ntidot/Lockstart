@@ -1,4 +1,4 @@
-![E3A86980-6BD2-414F-B6C6-3CE87DC58299](https://user-images.githubusercontent.com/98713994/162332903-a60c27e6-4250-47d4-8535-281619912916.jpeg)
+![NeoXWalker](https://user-images.githubusercontent.com/98713994/165641996-21fc053b-490b-4033-9346-3c47becb9ef9.jpeg)
 
 Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I am learning from myself day to day.
 
@@ -12,8 +12,8 @@ Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I 
 
 ## Projects 🪁
 
-* [Scratch Tutorials](https://github.com/nao-l/scratchtutorials)
-* [Wolfyctionnary](https://github.com/nao-l/wolfyctionnary-api)
+* [Scratch Tutorials](https://github.com/ScratchTutorials/ScratchTutorials)
+* [Wolfyctionnary](https://github.com/NeoXWalker/wolfyctionnary-api)
 
 
 ## Coding Surfaces 💻
