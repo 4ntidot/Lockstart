@@ -1,4 +1,4 @@
-![Lockstart](https://u.cubeupload.com/The_seven_remix/JxJJj2.jpeg)
+![Lockstart](https://u.cubeupload.com/The_seven_remix/cnQYoC.jpeg)
 
 Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I am learning from myself day to day.
 
