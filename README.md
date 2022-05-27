@@ -1,13 +1,11 @@
-![Lockstart](https://u.cubeupload.com/The_seven_remix/en8PFE.jpeg)
+![Lockstart](https://u.cubeupload.com/Lockstart/banner.jpg)
 
 Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I am learning from myself day to day.
 
 
-## Coding languages 🧑‍💻
+## Tech stack 🧑‍💻
 
-* HTML
-* CSS
-* JS
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 ## Projects 🪁
