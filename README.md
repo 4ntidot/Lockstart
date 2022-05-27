@@ -3,9 +3,9 @@
 Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I am learning from myself day to day.
 
 
-## Tech stack 🧑‍💻
+## Tech stack 🧑‍💻 \
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,md,firebase,github,cloudflare,py,supabase,svg)](https://skillicons.dev)
 
 
 ## Projects 🪁
