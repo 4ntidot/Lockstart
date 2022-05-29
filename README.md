@@ -15,8 +15,8 @@ Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I 
 * [Overcharge](https://github.com/Lockstart/Overcharge)
 
 
-## Coding Surfaces 💻
+## Social 🌍
 
-* [Documents](https://readdle.com/documents)
-* [Repl.it](https://replit.com)
-* [Github](https://github.com)
+* [Repl.it](https://replit.com/@Lockstart)
+* [Github](https://github.com/Lockstart)
+* [Scratch](https://scratch.mit.edu/users/Lockstart)
