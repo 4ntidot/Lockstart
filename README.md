@@ -1,4 +1,4 @@
-![Lockstart](https://u.cubeupload.com/Lockstart/banner.jpg)
+![Lockstart](https://u.cubeupload.com/Lockstart/banner.png)
 
 Hey! I come from 🇫🇷 France. I fell into code when I was twelve, and now I am learning from myself day to day.
 
